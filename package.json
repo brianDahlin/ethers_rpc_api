@@ -1,0 +1,11 @@
+{
+  "name": "zalupa",
+  "version": "6.6.6",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^6.10.0"
+  }
+}
