@@ -1,6 +1,6 @@
 import { ethers } from "ethers";
 
-const mnem = "design smart butter ";
+const mnem = "design xanax penis loxer nuher gloomik";
 
 const entro = ethers.Mnemonic.phraseToEntropy(mnem);
 
