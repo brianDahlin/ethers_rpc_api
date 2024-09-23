@@ -3,7 +3,7 @@
   "version": "6.6.6",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node mnem.js"
   },
   "dependencies": {
     "ethers": "^6.10.0"
