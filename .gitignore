@@ -1,3 +1,4 @@
 node_modules
 package-lock.json
 wallets.json
+wallet_with_desired_prefix.json

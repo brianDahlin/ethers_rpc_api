@@ -13,8 +13,6 @@ function generateMnemonic(byteLength) {
 const desiredByteLength = 32;
 
 const { entropyHex, mnemonic } = generateMnemonic(desiredByteLength);
-console.log("Entropy (hex):", entropyHex);
-console.log("Mnemonic:", mnemonic);
 
 async function deriveWallets(mnemonic, count) {
   const wallets = [];
